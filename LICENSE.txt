@@ -1,0 +1,3 @@
+Kartdata © OpenStreetMap-bidragsytere, lisensiert under Open Database License (ODbL) 1.0.
+https://www.openstreetmap.org/copyright
+Filene er en bearbeidet utgave (forenklede linjer, delt i celler) av data fra OpenStreetMap.
